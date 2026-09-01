@@ -1,5 +1,9 @@
 # 🍷 Wine Classification using Machine Learning
 
+<p align="center">
+  <img src="Wine Classification image.png" width="1000">
+</p>
+
 ### 📌 Project Overview
 
 This project classifies wine into different classes using Machine Learning.
